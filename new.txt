@@ -1,4 +1,9 @@
 
+<<<<<<< HEAD
 			HELLO	    MRUNAL	
+=======
+
+Hello Mrunal 
+>>>>>>> new
 
 
